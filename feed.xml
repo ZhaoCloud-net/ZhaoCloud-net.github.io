@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-06T18:46:15+08:00</updated><id>/feed.xml</id><title type="html">ZhaoCloud</title><entry><title type="html">Privacy Policy and Terms of Use 1.1</title><link href="/privacy-policy-and-terms-of-use-beta-1-1" rel="alternate" type="text/html" title="Privacy Policy and Terms of Use 1.1" /><published>2021-07-06T00:00:00+08:00</published><updated>2021-07-06T00:00:00+08:00</updated><id>/privacy-policy-and-terms-of-use-beta(1.1)</id><content type="html" xml:base="/privacy-policy-and-terms-of-use-beta-1-1">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-09-17T13:21:12+08:00</updated><id>/feed.xml</id><title type="html">ZhaoCloud</title><entry><title type="html">Homepage Provider Changed</title><link href="/homepage-provider-changed" rel="alternate" type="text/html" title="Homepage Provider Changed" /><published>2021-09-16T00:00:00+08:00</published><updated>2021-09-16T00:00:00+08:00</updated><id>/homepage-provider-changed</id><content type="html" xml:base="/homepage-provider-changed">&lt;p&gt;My home page server is totally broken. In order to make it more stable. It’s hosted on GitHub now.&lt;/p&gt;
+
+&lt;p&gt;repo: &lt;a href=&quot;https://github.com/ZhaoCloud-net/ZhaoCloud-net.github.io&quot;&gt;ZhaoCloud-net/ZhaoCloud-net.github.io&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">My home page server is totally broken. In order to make it more stable. It’s hosted on GitHub now.</summary></entry><entry><title type="html">Searx Update @2021.9.14</title><link href="/update-2021-09-14" rel="alternate" type="text/html" title="Searx Update @2021.9.14" /><published>2021-09-14T00:00:00+08:00</published><updated>2021-09-14T00:00:00+08:00</updated><id>/update-2021-09-14</id><content type="html" xml:base="/update-2021-09-14">&lt;p&gt;My server’s RAM isn’t enough. I gave up using Docker. And reinstalled Searx at all.&lt;/p&gt;
+
+&lt;p&gt;For normal users. You wouldn’t realize anything. Nothing changed for you.&lt;/p&gt;
+
+&lt;p&gt;But there’s one thing I must tell you. Today, I found something that maybe against my no-log policy. Some part of Searx, have the possibility to record log. Like Filtron, which protects my instance from bots, can record illegal requests after blocked them.&lt;/p&gt;
+
+&lt;p&gt;Especially, I’m running Searx in a new way. I’m not really sure that I used the best config. I need time to understand how everything working.&lt;/p&gt;
+
+&lt;p&gt;I don’t think your search and proxy logs are being recorded.&lt;/p&gt;
+
+&lt;p&gt;What I can promise to you is, I’m using 100%-pure Searx code. I don’t do anything bad on purpose.&lt;/p&gt;</content><author><name></name></author><summary type="html">My server’s RAM isn’t enough. I gave up using Docker. And reinstalled Searx at all.</summary></entry><entry><title type="html">DNSSEC and IPV6</title><link href="/dnssec-ipv6" rel="alternate" type="text/html" title="DNSSEC and IPV6" /><published>2021-08-13T00:00:00+08:00</published><updated>2021-08-13T00:00:00+08:00</updated><id>/dnssec-ipv6</id><content type="html" xml:base="/dnssec-ipv6">&lt;p&gt;Dnssec is enabled.&lt;/p&gt;
+
+&lt;p&gt;Ipv6 at Searx is disabled temporarily.&lt;/p&gt;</content><author><name></name></author><summary type="html">Dnssec is enabled.</summary></entry><entry><title type="html">Privacy Policy and Terms of Use v2</title><link href="/privacy-policy-and-terms-of-use210805" rel="alternate" type="text/html" title="Privacy Policy and Terms of Use v2" /><published>2021-08-05T00:00:00+08:00</published><updated>2021-08-05T00:00:00+08:00</updated><id>/privacy-policy-and-terms-of-use210805</id><content type="html" xml:base="/privacy-policy-and-terms-of-use210805">&lt;blockquote&gt;
+  &lt;p&gt;main changes: &lt;br /&gt;- &lt;a href=&quot;https://zhaocloud.net/homepage-cdn&quot;&gt;Homepage with CDN&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;data-i-collect&quot;&gt;Data I collect:&lt;/h2&gt;
+&lt;p&gt;Home page &amp;gt; I don’t record logs. My CDN provider, Cloudflare, can see the traffic and log the data. It depends on their privacy policy.&lt;/p&gt;
+
+&lt;p&gt;Searx &amp;gt; no log&lt;/p&gt;
+
+&lt;h2 id=&quot;data-i-share&quot;&gt;Data I share:&lt;/h2&gt;
+&lt;p&gt;(in fact, I have nothing to share now)&lt;/p&gt;
+
+&lt;p&gt;I won’t sell your data forever.&lt;/p&gt;
+
+&lt;p&gt;Only in one situation, I may share the data with governments or others. You broke the terms of use heavily, and I work with them can prohibit injuries that haven’t occurred. There must be enough reason to believe their request is sincerely and necessary.&lt;/p&gt;
+
+&lt;p&gt;I’ll make these requests public. (I haven’t gotten yet)&lt;/p&gt;
+
+&lt;h2 id=&quot;terms-of-use&quot;&gt;Terms of use:&lt;/h2&gt;
+&lt;p&gt;Do not hurt anyone for malicious intent.&lt;/p&gt;
+
+&lt;p&gt;That’s all.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Please understand, ZhaoCloud values your data and tries our best to protect your privacy. But in case of attacking, spying and intimidating, I can’t make any promise!&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">main changes: - Homepage with CDN</summary></entry><entry><title type="html">Bug of Searx (Aug 4)</title><link href="/bug210804" rel="alternate" type="text/html" title="Bug of Searx (Aug 4)" /><published>2021-08-04T00:00:00+08:00</published><updated>2021-08-04T00:00:00+08:00</updated><id>/bug210804</id><content type="html" xml:base="/bug210804">&lt;p&gt;Sorry! My instance still can’t get answer from Google often. Error is [too many requests].&lt;/p&gt;
+
+&lt;p&gt;For normal users:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You can change &lt;a href=&quot;https://s.zhaocloud.net/preferences&quot;&gt;preferences&lt;/a&gt; to use other search engines.&lt;/li&gt;
+  &lt;li&gt;If you really need Google, Go to &lt;a href=&quot;https://searx.space&quot;&gt;&lt;em&gt;searx.space&lt;/em&gt;&lt;/a&gt; use another instance please.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I sincerely hope everyone fair use my services. Thank you!&lt;/p&gt;</content><author><name></name></author><summary type="html">Sorry! My instance still can’t get answer from Google often. Error is [too many requests].</summary></entry><entry><title type="html">Bug of Searx (Aug 3)</title><link href="/bug210803" rel="alternate" type="text/html" title="Bug of Searx (Aug 3)" /><published>2021-08-03T00:00:00+08:00</published><updated>2021-08-03T00:00:00+08:00</updated><id>/bug210803</id><content type="html" xml:base="/bug210803">&lt;p&gt;Yesterday, I also changed my Searx server. In the past 24 hours it became unstable, and can’t get answer from Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;I’ve noticed that and fixing. Please go to &lt;a href=&quot;https://searx.space&quot;&gt;&lt;em&gt;searx.space&lt;/em&gt;&lt;/a&gt; use another instance now. (UTC 9:20)&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;Update at UTC 9:35&amp;gt; it has been fixed. Everything works well now. I’ll keep watching on it.&lt;/p&gt;
+
+&lt;p&gt;(I guess the reason is Google banned the server’s IP. I’m changing it, and considering changing the dynamic IP regularly.)&lt;/p&gt;</content><author><name></name></author><summary type="html">Yesterday, I also changed my Searx server. In the past 24 hours it became unstable, and can’t get answer from Google.</summary></entry><entry><title type="html">Homepage with CDN</title><link href="/homepage-cdn" rel="alternate" type="text/html" title="Homepage with CDN" /><published>2021-08-02T00:00:00+08:00</published><updated>2021-08-02T00:00:00+08:00</updated><id>/homepage-cdn</id><content type="html" xml:base="/homepage-cdn">&lt;p&gt;In case of funds issues. The &lt;strong&gt;homepage&lt;/strong&gt; is now running on an IPV6 only server. I have to use CDN to make it is reachable from IPV4 network. I have the duty to remind you:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My CDN provider, Cloudflare, can see the traffic and log the data.&lt;/strong&gt; It depends on their privacy policy. I may change my privacy policy in a few days.&lt;/p&gt;
+
+&lt;p&gt;Also, &lt;strong&gt;if you visit the site when my server is down. You’ll see the Cloudflare error page. Cloudflare will leave cookies on your browser in that situation.&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In case of funds issues. The homepage is now running on an IPV6 only server. I have to use CDN to make it is reachable from IPV4 network. I have the duty to remind you:</summary></entry><entry><title type="html">Privacy Policy and Terms of Use 1.1</title><link href="/privacy-policy-and-terms-of-use-beta-1-1" rel="alternate" type="text/html" title="Privacy Policy and Terms of Use 1.1" /><published>2021-07-06T00:00:00+08:00</published><updated>2021-07-06T00:00:00+08:00</updated><id>/privacy-policy-and-terms-of-use-beta(1.1)</id><content type="html" xml:base="/privacy-policy-and-terms-of-use-beta-1-1">&lt;blockquote&gt;
   &lt;p&gt;main changes: &lt;br /&gt;- Just a little changes in terms of use, makes it look more formal.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -37,112 +97,4 @@
 
 &lt;p&gt;All sub projects are affected.&lt;/p&gt;
 
-&lt;p&gt;Thanks for your cooperation.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’m changing ZhaoCloud’s servers provider to Microsoft’s Azure. (Before is Digitalocean)</summary></entry><entry><title type="html">Morty and RSS issues</title><link href="/morty-and-rss-issues" rel="alternate" type="text/html" title="Morty and RSS issues" /><published>2021-06-29T00:00:00+08:00</published><updated>2021-06-29T00:00:00+08:00</updated><id>/morty-and-rss-issues</id><content type="html" xml:base="/morty-and-rss-issues"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Old Homepage Cookies</title><link href="/old-homepage-cookies" rel="alternate" type="text/html" title="Old Homepage Cookies" /><published>2021-06-16T00:00:00+08:00</published><updated>2021-06-16T00:00:00+08:00</updated><id>/old-homepage-cookies</id><content type="html" xml:base="/old-homepage-cookies">&lt;p&gt;The new homepage is no-cookie.&lt;/p&gt;
-
-&lt;p&gt;Browsers maybe show the ‘last used’ time is current, or ‘cookies in use’. But they weren’t really being used.&lt;/p&gt;
-
-&lt;p&gt;You can remove my old cookies. Then I think they won’t appear.&lt;/p&gt;</content><author><name></name></author><summary type="html">The new homepage is no-cookie.</summary></entry><entry><title type="html">Privacy Policy and Terms of Use 1.0</title><link href="/privacy-policy-and-terms-of-use-beta-1-0" rel="alternate" type="text/html" title="Privacy Policy and Terms of Use 1.0" /><published>2021-06-16T00:00:00+08:00</published><updated>2021-06-16T00:00:00+08:00</updated><id>/privacy-policy-and-terms-of-use-beta(1.0)</id><content type="html" xml:base="/privacy-policy-and-terms-of-use-beta-1-0">&lt;blockquote&gt;
-  &lt;p&gt;main changes: &lt;br /&gt;- corrected misspelled words and grammar mistakes
-&lt;br /&gt;- new log policy
-&lt;br /&gt;- more specific rules of working with governments&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;data-i-collect&quot;&gt;Data I collect:&lt;/h2&gt;
-&lt;p&gt;Home page &amp;gt; no log&lt;/p&gt;
-
-&lt;p&gt;Searx &amp;gt; no log&lt;/p&gt;
-
-&lt;h2 id=&quot;data-i-share&quot;&gt;Data I share:&lt;/h2&gt;
-&lt;p&gt;(in fact, I have nothing to share now)&lt;/p&gt;
-
-&lt;p&gt;I won’t sell your data forever.&lt;/p&gt;
-
-&lt;p&gt;Only in one situation, I may share the data with governments or others. You broke the terms of use heavily, and I work with them can prohibit injuries that haven’t occurred. There’s enough reason to believe their request is sincerely and necessary.&lt;/p&gt;
-
-&lt;p&gt;I’ll make these requests public. (I haven’t gotten yet)&lt;/p&gt;
-
-&lt;h2 id=&quot;terms-of-use&quot;&gt;Terms of use:&lt;/h2&gt;
-&lt;p&gt;Do not hurt human, furry, other animals or living things, for malicious intent.&lt;/p&gt;
-
-&lt;p&gt;That’s all.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Please understand, ZhaoCloud values your data and tries my best to protect your privacy. But in case of attacking, spying and intimidating, I can’t make any promise!&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">main changes: - corrected misspelled words and grammar mistakes - new log policy - more specific rules of working with governments</summary></entry><entry><title type="html">Searx updating at 2021-06-13</title><link href="/update-2021-06-13" rel="alternate" type="text/html" title="Searx updating at 2021-06-13" /><published>2021-06-13T00:00:00+08:00</published><updated>2021-06-13T00:00:00+08:00</updated><id>/update-2021-06-13</id><content type="html" xml:base="/update-2021-06-13">&lt;p&gt;I’ll update Searx from 2021-06-13 4:35(UTC) to 2021-06-13 4:55(UTC). The service will offline for a while. Go to &lt;a href=&quot;https://searx.space&quot;&gt;&lt;em&gt;searx.space&lt;/em&gt;&lt;/a&gt; use another instance please.&lt;/p&gt;
-
-&lt;p&gt;I know Morty proxy down again. I’ll also fix it today.&lt;/p&gt;
-
-&lt;p&gt;Ipv6 will be avaliable after this update.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ll update Searx from 2021-06-13 4:35(UTC) to 2021-06-13 4:55(UTC). The service will offline for a while. Go to searx.space use another instance please.</summary></entry><entry><title type="html">Update 2021-06-10 (homepage)</title><link href="/update-2021-06-10" rel="alternate" type="text/html" title="Update 2021-06-10 (homepage)" /><published>2021-06-10T00:00:00+08:00</published><updated>2021-06-10T00:00:00+08:00</updated><id>/update-2021-06-10</id><content type="html" xml:base="/update-2021-06-10">&lt;p&gt;from Worldpress to Jekyll:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;no more google font&lt;/li&gt;
-  &lt;li&gt;no more canvas&lt;/li&gt;
-  &lt;li&gt;hard to attack&lt;/li&gt;
-  &lt;li&gt;save costs&lt;/li&gt;
-  &lt;li&gt;no more Plesk, no more log. I can manage Caddy server by my self&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;‘Contact’ is in ‘About’ page now. I wrote a new ‘about’ page too!&lt;/p&gt;
-
-&lt;p&gt;The beautiful theme is calls ‘leaf’, by Supun Kavinda. I did some little edits on it. Ex: removed Google Analytics.&lt;/p&gt;
-
-&lt;p&gt;Hope you like it!&lt;/p&gt;</content><author><name></name></author><summary type="html">from Worldpress to Jekyll:</summary></entry><entry><title type="html">Update 2021-5-19 (for Searx)</title><link href="/update-2021-5-19" rel="alternate" type="text/html" title="Update 2021-5-19 (for Searx)" /><published>2021-05-20T06:47:08+08:00</published><updated>2021-05-20T06:47:08+08:00</updated><id>/update-2021-5-19</id><content type="html" xml:base="/update-2021-5-19">&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://s.zhaocloud.net/&quot; data-type=&quot;URL&quot; data-id=&quot;https://s.zhaocloud.net/&quot;&gt;Searx&lt;/a&gt; : &lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;Rebuilt by Docker. &lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;Bugs Fixed: &lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Wrong redirect&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;Changes:&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;I no longer use Cloudflare CDN on this. &lt;s&gt;(if your traffic still pass Cloudflare, refresh your DNS cache please)&lt;/s&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;New Functions:&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Morty result proxy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Searx : Rebuilt by Docker. Bugs Fixed: Wrong redirect Changes: I no longer use Cloudflare CDN on this. (if your traffic still pass Cloudflare, refresh your DNS cache please) New Functions: Morty result proxy</summary></entry><entry><title type="html">Privacy Policy and Terms of Use (BETA)</title><link href="/privacy-policy-and-terms-of-use-beta" rel="alternate" type="text/html" title="Privacy Policy and Terms of Use (BETA)" /><published>2021-05-09T14:15:25+08:00</published><updated>2021-05-09T14:15:25+08:00</updated><id>/privacy-policy-and-terms-of-use-beta</id><content type="html" xml:base="/privacy-policy-and-terms-of-use-beta">&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Data I correct:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;Home page &amp;gt; logs can't be connected to person&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;(This is the default setting of the software running on the server. I'm planning to fix it later)&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;Searx &amp;gt; no log&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Data I share:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;I won't sell your data forever.&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;Only in these situations I may share the data with governments or others. You broke the terms of use and I work with them can prohibit injuries that didn't occur. There's enough reason to believe their request is sincere and necessary.&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Teams of use:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;Do not hurt humans or other living things with malicious intent.&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;That's all.&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Please understand, ZhaoCloud values your data and tries our best to protect your privacy. But in case of hackers attack, spy and intimidate, I can't make any promise!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Data I correct: Home page &amp;gt; logs can't be connected to person (This is the default setting of the software running on the server. I'm planning to fix it later) Searx &amp;gt; no log Data I share: I won't sell your data forever. Only in these situations I may share the data with governments or others. You broke the terms of use and I work with them can prohibit injuries that didn't occur. There's enough reason to believe their request is sincere and necessary. Teams of use: Do not hurt humans or other living things with malicious intent. That's all. Please understand, ZhaoCloud values your data and tries our best to protect your privacy. But in case of hackers attack, spy and intimidate, I can't make any promise!</summary></entry></feed>
+&lt;p&gt;Thanks for your cooperation.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’m changing ZhaoCloud’s servers provider to Microsoft’s Azure. (Before is Digitalocean)</summary></entry></feed>
