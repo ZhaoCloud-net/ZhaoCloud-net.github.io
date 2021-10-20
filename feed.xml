@@ -1,6 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-09-17T13:41:51+08:00</updated><id>/feed.xml</id><title type="html">ZhaoCloud</title><entry><title type="html">Homepage Provider Changed</title><link href="/homepage-provider-changed" rel="alternate" type="text/html" title="Homepage Provider Changed" /><published>2021-09-16T00:00:00+08:00</published><updated>2021-09-16T00:00:00+08:00</updated><id>/homepage-provider-changed</id><content type="html" xml:base="/homepage-provider-changed">&lt;p&gt;My home page server is totally broken. In order to make it more stable. It’s hosted on GitHub now.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-20T21:55:31+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ZhaoCloud</title><entry><title type="html">Searx Provider Changed</title><link href="http://localhost:4000/searx-provider-changed" rel="alternate" type="text/html" title="Searx Provider Changed" /><published>2021-10-20T00:00:00+08:00</published><updated>2021-10-20T00:00:00+08:00</updated><id>http://localhost:4000/searx-provider-changed</id><content type="html" xml:base="http://localhost:4000/searx-provider-changed">&lt;p&gt;before: Microsoft Azure&lt;/p&gt;
 
-&lt;p&gt;repo: &lt;a href=&quot;https://github.com/ZhaoCloud-net/ZhaoCloud-net.github.io&quot;&gt;ZhaoCloud-net/ZhaoCloud-net.github.io&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">My home page server is totally broken. In order to make it more stable. It’s hosted on GitHub now.</summary></entry><entry><title type="html">Searx Update @2021.9.14</title><link href="/update-2021-09-14" rel="alternate" type="text/html" title="Searx Update @2021.9.14" /><published>2021-09-14T00:00:00+08:00</published><updated>2021-09-14T00:00:00+08:00</updated><id>/update-2021-09-14</id><content type="html" xml:base="/update-2021-09-14">&lt;p&gt;My server’s RAM isn’t enough. I gave up using Docker. And reinstalled Searx at all.&lt;/p&gt;
+&lt;p&gt;now: OVH&lt;/p&gt;</content><author><name></name></author><summary type="html">before: Microsoft Azure</summary></entry><entry><title type="html">Server Downtimes</title><link href="http://localhost:4000/server-down-times" rel="alternate" type="text/html" title="Server Downtimes" /><published>2021-10-20T00:00:00+08:00</published><updated>2021-10-20T00:00:00+08:00</updated><id>http://localhost:4000/server-down-times</id><content type="html" xml:base="http://localhost:4000/server-down-times">&lt;p&gt;My Searx server down many times. The reason is RAM isn’t enough.&lt;/p&gt;
+
+&lt;p&gt;So I bought a better VPS today.&lt;/p&gt;
+
+&lt;p&gt;Problems should be fixed.&lt;/p&gt;
+
+&lt;p&gt;Sorry&lt;/p&gt;</content><author><name></name></author><summary type="html">My Searx server down many times. The reason is RAM isn’t enough.</summary></entry><entry><title type="html">Homepage Provider Changed</title><link href="http://localhost:4000/homepage-provider-changed" rel="alternate" type="text/html" title="Homepage Provider Changed" /><published>2021-09-16T00:00:00+08:00</published><updated>2021-09-16T00:00:00+08:00</updated><id>http://localhost:4000/homepage-provider-changed</id><content type="html" xml:base="http://localhost:4000/homepage-provider-changed">&lt;p&gt;My home page server is totally broken. In order to make it more stable. It’s hosted on GitHub now.&lt;/p&gt;
+
+&lt;p&gt;repo: &lt;a href=&quot;https://github.com/ZhaoCloud-net/ZhaoCloud-net.github.io&quot;&gt;ZhaoCloud-net/ZhaoCloud-net.github.io&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">My home page server is totally broken. In order to make it more stable. It’s hosted on GitHub now.</summary></entry><entry><title type="html">Searx Update @2021.9.14</title><link href="http://localhost:4000/update-2021-09-14" rel="alternate" type="text/html" title="Searx Update @2021.9.14" /><published>2021-09-14T00:00:00+08:00</published><updated>2021-09-14T00:00:00+08:00</updated><id>http://localhost:4000/update-2021-09-14</id><content type="html" xml:base="http://localhost:4000/update-2021-09-14">&lt;p&gt;My server’s RAM isn’t enough. I gave up using Docker. And reinstalled Searx at all.&lt;/p&gt;
 
 &lt;p&gt;For normal users. You wouldn’t realize anything. Nothing changed for you.&lt;/p&gt;
 
@@ -10,9 +18,9 @@
 
 &lt;p&gt;I don’t think your search and proxy logs are being recorded.&lt;/p&gt;
 
-&lt;p&gt;What I can promise to you is, this is 100%-pure Searx code. I don’t do anything bad on purpose.&lt;/p&gt;</content><author><name></name></author><summary type="html">My server’s RAM isn’t enough. I gave up using Docker. And reinstalled Searx at all.</summary></entry><entry><title type="html">DNSSEC and IPV6</title><link href="/dnssec-ipv6" rel="alternate" type="text/html" title="DNSSEC and IPV6" /><published>2021-08-13T00:00:00+08:00</published><updated>2021-08-13T00:00:00+08:00</updated><id>/dnssec-ipv6</id><content type="html" xml:base="/dnssec-ipv6">&lt;p&gt;Dnssec is enabled.&lt;/p&gt;
+&lt;p&gt;What I can promise to you is, this is 100%-pure Searx code. I don’t do anything bad on purpose.&lt;/p&gt;</content><author><name></name></author><summary type="html">My server’s RAM isn’t enough. I gave up using Docker. And reinstalled Searx at all.</summary></entry><entry><title type="html">DNSSEC and IPV6</title><link href="http://localhost:4000/dnssec-ipv6" rel="alternate" type="text/html" title="DNSSEC and IPV6" /><published>2021-08-13T00:00:00+08:00</published><updated>2021-08-13T00:00:00+08:00</updated><id>http://localhost:4000/dnssec-ipv6</id><content type="html" xml:base="http://localhost:4000/dnssec-ipv6">&lt;p&gt;Dnssec is enabled.&lt;/p&gt;
 
-&lt;p&gt;Ipv6 at Searx is disabled temporarily.&lt;/p&gt;</content><author><name></name></author><summary type="html">Dnssec is enabled.</summary></entry><entry><title type="html">Privacy Policy and Terms of Use v2</title><link href="/privacy-policy-and-terms-of-use210805" rel="alternate" type="text/html" title="Privacy Policy and Terms of Use v2" /><published>2021-08-05T00:00:00+08:00</published><updated>2021-08-05T00:00:00+08:00</updated><id>/privacy-policy-and-terms-of-use210805</id><content type="html" xml:base="/privacy-policy-and-terms-of-use210805">&lt;blockquote&gt;
+&lt;p&gt;Ipv6 at Searx is disabled temporarily.&lt;/p&gt;</content><author><name></name></author><summary type="html">Dnssec is enabled.</summary></entry><entry><title type="html">Privacy Policy and Terms of Use v2</title><link href="http://localhost:4000/privacy-policy-and-terms-of-use210805" rel="alternate" type="text/html" title="Privacy Policy and Terms of Use v2" /><published>2021-08-05T00:00:00+08:00</published><updated>2021-08-05T00:00:00+08:00</updated><id>http://localhost:4000/privacy-policy-and-terms-of-use210805</id><content type="html" xml:base="http://localhost:4000/privacy-policy-and-terms-of-use210805">&lt;blockquote&gt;
   &lt;p&gt;main changes: &lt;br /&gt;- &lt;a href=&quot;https://zhaocloud.net/homepage-cdn&quot;&gt;Homepage with CDN&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -37,33 +45,13 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Please understand, ZhaoCloud values your data and tries our best to protect your privacy. But in case of attacking, spying and intimidating, I can’t make any promise!&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">main changes: - Homepage with CDN</summary></entry><entry><title type="html">Bug of Searx (Aug 4)</title><link href="/bug210804" rel="alternate" type="text/html" title="Bug of Searx (Aug 4)" /><published>2021-08-04T00:00:00+08:00</published><updated>2021-08-04T00:00:00+08:00</updated><id>/bug210804</id><content type="html" xml:base="/bug210804">&lt;p&gt;Sorry! My instance still can’t get answer from Google often. Error is [too many requests].&lt;/p&gt;
-
-&lt;p&gt;For normal users:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;You can change &lt;a href=&quot;https://s.zhaocloud.net/preferences&quot;&gt;preferences&lt;/a&gt; to use other search engines.&lt;/li&gt;
-  &lt;li&gt;If you really need Google, Go to &lt;a href=&quot;https://searx.space&quot;&gt;&lt;em&gt;searx.space&lt;/em&gt;&lt;/a&gt; use another instance please.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I sincerely hope everyone fair use my services. Thank you!&lt;/p&gt;</content><author><name></name></author><summary type="html">Sorry! My instance still can’t get answer from Google often. Error is [too many requests].</summary></entry><entry><title type="html">Bug of Searx (Aug 3)</title><link href="/bug210803" rel="alternate" type="text/html" title="Bug of Searx (Aug 3)" /><published>2021-08-03T00:00:00+08:00</published><updated>2021-08-03T00:00:00+08:00</updated><id>/bug210803</id><content type="html" xml:base="/bug210803">&lt;p&gt;Yesterday, I also changed my Searx server. In the past 24 hours it became unstable, and can’t get answer from Google.&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;I’ve noticed that and fixing. Please go to &lt;a href=&quot;https://searx.space&quot;&gt;&lt;em&gt;searx.space&lt;/em&gt;&lt;/a&gt; use another instance now. (UTC 9:20)&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;Update at UTC 9:35&amp;gt; it has been fixed. Everything works well now. I’ll keep watching on it.&lt;/p&gt;
-
-&lt;p&gt;(I guess the reason is Google banned the server’s IP. I’m changing it, and considering changing the dynamic IP regularly.)&lt;/p&gt;</content><author><name></name></author><summary type="html">Yesterday, I also changed my Searx server. In the past 24 hours it became unstable, and can’t get answer from Google.</summary></entry><entry><title type="html">Homepage with CDN</title><link href="/homepage-cdn" rel="alternate" type="text/html" title="Homepage with CDN" /><published>2021-08-02T00:00:00+08:00</published><updated>2021-08-02T00:00:00+08:00</updated><id>/homepage-cdn</id><content type="html" xml:base="/homepage-cdn">&lt;p&gt;In case of funds issues. The &lt;strong&gt;homepage&lt;/strong&gt; is now running on an IPV6 only server. I have to use CDN to make it is reachable from IPV4 network. I have the duty to remind you:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;My CDN provider, Cloudflare, can see the traffic and log the data.&lt;/strong&gt; It depends on their privacy policy. I may change my privacy policy in a few days.&lt;/p&gt;
-
-&lt;p&gt;Also, &lt;strong&gt;if you visit the site when my server is down. You’ll see the Cloudflare error page. Cloudflare will leave cookies on your browser in that situation.&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In case of funds issues. The homepage is now running on an IPV6 only server. I have to use CDN to make it is reachable from IPV4 network. I have the duty to remind you:</summary></entry><entry><title type="html">Privacy Policy and Terms of Use 1.1</title><link href="/privacy-policy-and-terms-of-use-beta-1-1" rel="alternate" type="text/html" title="Privacy Policy and Terms of Use 1.1" /><published>2021-07-06T00:00:00+08:00</published><updated>2021-07-06T00:00:00+08:00</updated><id>/privacy-policy-and-terms-of-use-beta(1.1)</id><content type="html" xml:base="/privacy-policy-and-terms-of-use-beta-1-1">&lt;blockquote&gt;
-  &lt;p&gt;main changes: &lt;br /&gt;- Just a little changes in terms of use, makes it look more formal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please understand, ZhaoCloud values your data and tries our best to protect your privacy. But in case of attacking, spying and intimidating, I can’t make any promise!&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">main changes: - Homepage with CDN</summary></entry><entry><title type="html">Privacy Policy and Terms of Use v2</title><link href="http://localhost:4000/privacy-policy-and-terms-of-use210917" rel="alternate" type="text/html" title="Privacy Policy and Terms of Use v2" /><published>2021-08-05T00:00:00+08:00</published><updated>2021-08-05T00:00:00+08:00</updated><id>http://localhost:4000/privacy-policy-and-terms-of-use210917</id><content type="html" xml:base="http://localhost:4000/privacy-policy-and-terms-of-use210917">&lt;blockquote&gt;
+  &lt;p&gt;main changes: &lt;br /&gt;- &lt;a href=&quot;https://zhaocloud.net/homepage-cdn&quot;&gt;homepage provider changed&lt;/a&gt;
+&lt;br /&gt;- &lt;a href=&quot;https://zhaocloud.net/update-2021-09-14&quot;&gt;logs?&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;data-i-collect&quot;&gt;Data I collect:&lt;/h2&gt;
-&lt;p&gt;Home page &amp;gt; no log&lt;/p&gt;
+&lt;p&gt;Home page &amp;gt; It’s hosted on GitHub now. It depends on their privacy policy.&lt;/p&gt;
 
 &lt;p&gt;Searx &amp;gt; no log&lt;/p&gt;
 
@@ -83,18 +71,25 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Please understand, ZhaoCloud values your data and tries our best to protect your privacy. But in case of attacking, spying and intimidating, I can’t make any promise!&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">main changes: - Just a little changes in terms of use, makes it look more formal.</summary></entry><entry><title type="html">Chinese Homepage Offline | 中文主頁下綫</title><link href="/chinese-homepage-offline" rel="alternate" type="text/html" title="Chinese Homepage Offline | 中文主頁下綫" /><published>2021-07-05T00:00:00+08:00</published><updated>2021-07-05T00:00:00+08:00</updated><id>/chinese-homepage-offline</id><content type="html" xml:base="/chinese-homepage-offline">&lt;h3 id=&quot;抱歉我放弃了维护中文主頁&quot;&gt;抱歉，我放弃了维护中文主頁&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Please understand, ZhaoCloud values your data and tries our best to protect your privacy. But in case of attacking, spying and intimidating, I can’t make any promise!&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">main changes: - homepage provider changed - logs?</summary></entry><entry><title type="html">Bug of Searx (Aug 4)</title><link href="http://localhost:4000/bug210804" rel="alternate" type="text/html" title="Bug of Searx (Aug 4)" /><published>2021-08-04T00:00:00+08:00</published><updated>2021-08-04T00:00:00+08:00</updated><id>http://localhost:4000/bug210804</id><content type="html" xml:base="http://localhost:4000/bug210804">&lt;p&gt;Sorry! My instance still can’t get answer from Google often. Error is [too many requests].&lt;/p&gt;
 
-&lt;p&gt;(translation: Sorry, I gave up maintaining Chinese home page)&lt;/p&gt;
+&lt;p&gt;For normal users:&lt;/p&gt;
 
-&lt;h2 id=&quot;靜態存檔----achievein-chinese&quot;&gt;靜態存檔  |  achieve(in Chinese)&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;You can change &lt;a href=&quot;https://s.zhaocloud.net/preferences&quot;&gt;preferences&lt;/a&gt; to use other search engines.&lt;/li&gt;
+  &lt;li&gt;If you really need Google, Go to &lt;a href=&quot;https://searx.space&quot;&gt;&lt;em&gt;searx.space&lt;/em&gt;&lt;/a&gt; use another instance please.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;中文首頁已停止更新將於6月30日下線&quot;&gt;&lt;a href=&quot;/assets/a1&quot;&gt;《！中文首頁已停止更新，將於6月30日下線！》&lt;/a&gt;&lt;/h2&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&quot;原主頁&quot;&gt;&lt;a href=&quot;/assets/a2&quot;&gt;《原主頁》&lt;/a&gt;&lt;/h2&gt;</content><author><name></name></author><summary type="html">抱歉，我放弃了维护中文主頁</summary></entry><entry><title type="html">Server Provider Changing</title><link href="/provider-change" rel="alternate" type="text/html" title="Server Provider Changing" /><published>2021-07-03T00:00:00+08:00</published><updated>2021-07-03T00:00:00+08:00</updated><id>/provider-change</id><content type="html" xml:base="/provider-change">&lt;p&gt;I’m changing ZhaoCloud’s servers provider to Microsoft’s Azure. (Before is Digitalocean)&lt;/p&gt;
+&lt;p&gt;I sincerely hope everyone fair use my services. Thank you!&lt;/p&gt;</content><author><name></name></author><summary type="html">Sorry! My instance still can’t get answer from Google often. Error is [too many requests].</summary></entry><entry><title type="html">Bug of Searx (Aug 3)</title><link href="http://localhost:4000/bug210803" rel="alternate" type="text/html" title="Bug of Searx (Aug 3)" /><published>2021-08-03T00:00:00+08:00</published><updated>2021-08-03T00:00:00+08:00</updated><id>http://localhost:4000/bug210803</id><content type="html" xml:base="http://localhost:4000/bug210803">&lt;p&gt;Yesterday, I also changed my Searx server. In the past 24 hours it became unstable, and can’t get answer from Google.&lt;/p&gt;
 
-&lt;p&gt;All of my services will down for a while.(GMT 12:30-13:00)&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;I’ve noticed that and fixing. Please go to &lt;a href=&quot;https://searx.space&quot;&gt;&lt;em&gt;searx.space&lt;/em&gt;&lt;/a&gt; use another instance now. (UTC 9:20)&lt;/del&gt;&lt;/p&gt;
 
-&lt;p&gt;All sub projects are affected.&lt;/p&gt;
+&lt;p&gt;Update at UTC 9:35&amp;gt; it has been fixed. Everything works well now. I’ll keep watching on it.&lt;/p&gt;
 
-&lt;p&gt;Thanks for your cooperation.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’m changing ZhaoCloud’s servers provider to Microsoft’s Azure. (Before is Digitalocean)</summary></entry></feed>
+&lt;p&gt;(I guess the reason is Google banned the server’s IP. I’m changing it, and considering changing the dynamic IP regularly.)&lt;/p&gt;</content><author><name></name></author><summary type="html">Yesterday, I also changed my Searx server. In the past 24 hours it became unstable, and can’t get answer from Google.</summary></entry><entry><title type="html">Homepage with CDN</title><link href="http://localhost:4000/homepage-cdn" rel="alternate" type="text/html" title="Homepage with CDN" /><published>2021-08-02T00:00:00+08:00</published><updated>2021-08-02T00:00:00+08:00</updated><id>http://localhost:4000/homepage-cdn</id><content type="html" xml:base="http://localhost:4000/homepage-cdn">&lt;p&gt;In case of funds issues. The &lt;strong&gt;homepage&lt;/strong&gt; is now running on an IPV6 only server. I have to use CDN to make it is reachable from IPV4 network. I have the duty to remind you:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My CDN provider, Cloudflare, can see the traffic and log the data.&lt;/strong&gt; It depends on their privacy policy. I may change my privacy policy in a few days.&lt;/p&gt;
+
+&lt;p&gt;Also, &lt;strong&gt;if you visit the site when my server is down. You’ll see the Cloudflare error page. Cloudflare will leave cookies on your browser in that situation.&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In case of funds issues. The homepage is now running on an IPV6 only server. I have to use CDN to make it is reachable from IPV4 network. I have the duty to remind you:</summary></entry></feed>
