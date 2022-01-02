@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-25T22:31:35+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ZhaoCloud</title><entry><title type="html">WE’RE ON MASTODON!</title><link href="http://localhost:4000/mastodon" rel="alternate" type="text/html" title="WE’RE ON MASTODON!" /><published>2021-11-20T00:00:00+08:00</published><updated>2021-11-20T00:00:00+08:00</updated><id>http://localhost:4000/mastodon</id><content type="html" xml:base="http://localhost:4000/mastodon">&lt;p&gt;&lt;a href=&quot;https://mastodon.social/@zhaocloud&quot;&gt;mastodon.social/@zhaocloud&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-02T23:11:42+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ZhaoCloud</title><entry><title type="html">SearX changed to SearXNG</title><link href="http://localhost:4000/to-searxng" rel="alternate" type="text/html" title="SearX changed to SearXNG" /><published>2022-01-02T00:00:00+08:00</published><updated>2022-01-02T00:00:00+08:00</updated><id>http://localhost:4000/to-SearXNG</id><content type="html" xml:base="http://localhost:4000/to-searxng">&lt;p&gt;My SearX changed to SearXNG.&lt;/p&gt;
+
+&lt;p&gt;It’ll report an error if you changed the settings before.&lt;/p&gt;
+
+&lt;p&gt;You can remove the cookies or go to preferences, then click save. (Yes, just click save, it’ll be okay)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;g:\Desktop\jekyll-theme-leaf\assets\220103.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">My SearX changed to SearXNG.</summary></entry><entry><title type="html">WE’RE ON MASTODON!</title><link href="http://localhost:4000/mastodon" rel="alternate" type="text/html" title="WE’RE ON MASTODON!" /><published>2021-11-20T00:00:00+08:00</published><updated>2021-11-20T00:00:00+08:00</updated><id>http://localhost:4000/mastodon</id><content type="html" xml:base="http://localhost:4000/mastodon">&lt;p&gt;&lt;a href=&quot;https://mastodon.social/@zhaocloud&quot;&gt;mastodon.social/@zhaocloud&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;In the future, I will post news and updates at Mastodon.&lt;/strong&gt;&lt;/p&gt;
 
@@ -89,15 +95,4 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Please understand, ZhaoCloud values your data and tries our best to protect your privacy. But in case of attacking, spying and intimidating, I can’t make any promise!&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">main changes: - Homepage with CDN</summary></entry><entry><title type="html">Bug of Searx (Aug 4)</title><link href="http://localhost:4000/bug210804" rel="alternate" type="text/html" title="Bug of Searx (Aug 4)" /><published>2021-08-04T00:00:00+08:00</published><updated>2021-08-04T00:00:00+08:00</updated><id>http://localhost:4000/bug210804</id><content type="html" xml:base="http://localhost:4000/bug210804">&lt;p&gt;Sorry! My instance still can’t get answer from Google often. Error is [too many requests].&lt;/p&gt;
-
-&lt;p&gt;For normal users:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;You can change &lt;a href=&quot;https://s.zhaocloud.net/preferences&quot;&gt;preferences&lt;/a&gt; to use other search engines.&lt;/li&gt;
-  &lt;li&gt;If you really need Google, Go to &lt;a href=&quot;https://searx.space&quot;&gt;&lt;em&gt;searx.space&lt;/em&gt;&lt;/a&gt; use another instance please.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I sincerely hope everyone fair use my services. Thank you!&lt;/p&gt;</content><author><name></name></author><summary type="html">Sorry! My instance still can’t get answer from Google often. Error is [too many requests].</summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;Please understand, ZhaoCloud values your data and tries our best to protect your privacy. But in case of attacking, spying and intimidating, I can’t make any promise!&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">main changes: - Homepage with CDN</summary></entry></feed>
